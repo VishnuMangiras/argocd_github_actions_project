@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: webcont
-          image: tejasdocker571/github_actions:4
+          image: tejasdocker571/github_actions:5
 
           ports:
             - containerPort: 8080
